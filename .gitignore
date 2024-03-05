@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+package-lock.json
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+.env
+
+# VS Code
+.vscode/
+.vscode/*
+.vscode/settings.json
